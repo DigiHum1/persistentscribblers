@@ -1,12 +1,12 @@
-## Welcome to GitHub Pages
+## Welcome to The Persistent Scribblers Society
 
-You can use the [editor on GitHub](https://github.com/DigiHum1/persistentscribblers/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+The Persistent Scribblers Society was a writing group which existed between 1875-1879.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Its members came from a wide geographical area, but were mainly centred around families in the Canterbury and South East Kent area.
 
-### Markdown
+### Notebooks
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+The notebooks are held at Canterbury Cathedral Archives.
 
 ```markdown
 Syntax highlighted code block
@@ -34,4 +34,4 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 
 ### Support or Contact
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+Michelle Crowther - Learning and Research Librarian, Canterbury Christ Church University.
