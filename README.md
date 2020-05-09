@@ -8,9 +8,9 @@ Its members came from a wide geographical area, but were mainly centred around f
 
 The notebooks are held at Canterbury Cathedral Archives.
 
-- Members A-Z[Link](url)
-- Stories A-Z[Link](url) 
-- Notebooks 1-18[Link](url) 
+- Members A-Z[Link](http://github.com/)
+- Stories A-Z[Link](http://github.com/) 
+- Notebooks 1-18[Link](http://github.com/) 
 
 ### Support or Contact
 
