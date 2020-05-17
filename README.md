@@ -8,9 +8,9 @@ Its members came from a wide geographical area, but were mainly centred around f
 
 The notebooks are held at Canterbury Cathedral Archives.
 
-- Members A-Z[Link](https://digihum1.github.io/persistentscribblers/membersaz)
-- Stories A-Z[Link](http://github.com/) 
-- Notebooks 1-18[Link](http://github.com/) 
+- [Members A-Z](https://digihum1.github.io/persistentscribblers/membersaz)
+- [Stories A-Z](https://digihum1.github.io/persistentscribblers/storiesaz)
+- [Notebooks 1-18](https://digihum1.github.io/persistentscribblers/notebooks118)
 
 ### Support or Contact
 
