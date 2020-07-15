@@ -2,8 +2,8 @@
 
 <table>
 <tr>
-<th> Good </th>
-<th> Bad </th>
+<th> Members A-M </th>
+<th> Members N-Z </th>
 </tr>
 <tr>
 <td>
