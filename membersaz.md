@@ -5,8 +5,8 @@
 * [Furley, Walter]
 * [Furley, Mrs Bessie Bruen]
 * [Halhed, Miss Harriet]
-* [Hemery, Francis Hobart](/docs/hemery)
+* [Hemery, Francis Hobart](docs/hemery)
 * [Payne Smith, Mrs Catherine]
 * [Payne Smith. Mary]
-* [Wightwick, Mary Grace](/wightwickmg)
+* [Wightwick, Mary Grace](docs/wightwickmg)
 * [Wildash, Dr Henry Cobb]
