@@ -8,5 +8,5 @@
 [Hemery, Francis Hobart](docs/hemery)   
 [Payne Smith, Mrs Catherine]   
 [Payne Smith. Mary]   
-[Wightwick, Mary Grace](docs/wightwickmg)   
+[Wightwick, Mary Grace](wightwickmg)   
 [Wildash, Dr Henry Cobb]   
