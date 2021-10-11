@@ -13,7 +13,7 @@ Its members came from a wide geographical area, but were mainly centred around f
 # {.cards}
 
 ##
-[**Bertha Porter**](/bertha-porter-biography)
+[**Bertha Porter**](/authors/bertha-porter)
 
 - Michelle Crowther
 
@@ -25,9 +25,9 @@ Biographer and Egyptologist
 
 The notebooks are held at Canterbury Cathedral Archives.
 
-- [Members A-Z](https://digihum1.github.io/persistentscribblers/membersaz)
-- [Stories A-Z](https://digihum1.github.io/persistentscribblers/storiesaz)
-- [Notebooks 1-18](https://digihum1.github.io/persistentscribblers/notebooks118)
+- [Members A-Z](/persistentscribblers/membersaz)
+- [Stories A-Z](/persistentscribblers/storiesaz)
+- [Notebooks 1-18](/persistentscribblers/notebooks118)
 
 ### Support or Contact
 
