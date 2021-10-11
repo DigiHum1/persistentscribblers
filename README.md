@@ -41,9 +41,9 @@ Michelle Crowther - Learning and Research Librarian, Canterbury Christ Church Un
 [Furley, Walter]   
 [Furley, Mrs Bessie Bruen]   
 [Halhed, Miss Harriet]   
-[Hemery, Francis Hobart](docs/hemery)   
+[Hemery, Francis Hobart](/authors/hemery)   
 [Payne Smith, Mrs Catherine]   
 [Payne Smith. Mary]   
-[Bertha Porter](bertha-porter-biography)      
-[Wightwick, Mary Grace](mary-grace-wightwick-biography)   
+[Bertha Porter](/authors/bertha-porter)      
+[Wightwick, Mary Grace](/authors/mary-grace-wightwick)   
 [Wildash, Dr Henry Cobb]   
