@@ -25,7 +25,7 @@ Biographer and Egyptologist
 
 The notebooks are held at Canterbury Cathedral Archives.
 
-- [Members A-Z](/persistentscribblers/membersaz)
+- [Members A-Z](/authors)
 - [Stories A-Z](/persistentscribblers/storiesaz)
 - [Notebooks 1-18](/persistentscribblers/notebooks118)
 
