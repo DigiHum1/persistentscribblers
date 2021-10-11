@@ -32,18 +32,3 @@ The notebooks are held at Canterbury Cathedral Archives.
 ### Support or Contact
 
 Michelle Crowther - Learning and Research Librarian, Canterbury Christ Church University - michelle.crowther1@gmail.com
-
-
-# Members A-Z 
-
-[Barber, Mary]   
-[Callaway. Miss]   
-[Furley, Walter]   
-[Furley, Mrs Bessie Bruen]   
-[Halhed, Miss Harriet]   
-[Hemery, Francis Hobart](/authors/hemery)   
-[Payne Smith, Mrs Catherine]   
-[Payne Smith. Mary]   
-[Bertha Porter](/authors/bertha-porter)      
-[Wightwick, Mary Grace](/authors/mary-grace-wightwick)   
-[Wildash, Dr Henry Cobb]   
