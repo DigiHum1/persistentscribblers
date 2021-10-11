@@ -1,4 +1,10 @@
-# Francis Hobart Hemery 
+<param ve-config
+       title="Francis Hobart Hemery"
+       author="Michelle Crowther"
+       banner="https://upload.wikimedia.org/wikipedia/commons/e/e5/Poulakas-giannis-sea-painting-with-boat.jpeg"
+       layout="vertical"
+       eid="Essay Wikidata QID"
+       about="Essay Subject Wikidata QID">
 
 Francis Hobart Hemery was born at sea on the 22nd March 1847, the son of John and Anna Hemery (nee Beatty). He was baptised in Jersey on the 12 May. 
 He joined the navy in [   ] was appointed sub lieutenant on 11 September 1860. (NA - ADM 196/17/58) and in the 1861 census he is a naval cadet. He was assigned to H.M.S _Achilles_, a broadside ironclad frigate which defended the waters of the English Channel as part of the Channel Fleet, as a sub-lieutenant on the 5 June 1867.  The Captain was E.W. Vansittart.
