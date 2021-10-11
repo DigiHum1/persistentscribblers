@@ -12,7 +12,7 @@ Its members came from a wide geographical area, but were mainly centred around f
 
 The notebooks are held at Canterbury Cathedral Archives.
 
-- [Members A-Z](/authors)
+- [Members A-Z](/persistentscribblers/authors)
 - [Stories A-Z](/persistentscribblers/storiesaz)
 - [Notebooks 1-18](/persistentscribblers/notebooks118)
 
