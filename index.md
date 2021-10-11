@@ -8,7 +8,7 @@ The Persistent Scribblers Society was a writing group which existed between 1875
 
 Its members came from a wide geographical area, but were mainly centred around families in the Canterbury and South East Kent area. The notebooks are held at Canterbury Cathedral Archives.
 
-# Members
+### Members
 
 # {.cards}
 
@@ -19,7 +19,7 @@ Its members came from a wide geographical area, but were mainly centred around f
 
 ![](/images/thumbnails/mobile-landscapes.jpg)
 
-Biographer
+Biographer and Egyptologist
 
 ### Notebooks
 
