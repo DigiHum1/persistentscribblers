@@ -8,19 +8,6 @@ The Persistent Scribblers Society was a writing group which existed between 1875
 
 Its members came from a wide geographical area, but were mainly centred around families in the Canterbury and South East Kent area. The notebooks are held at Canterbury Cathedral Archives.
 
-### Members
-
-# {.cards}
-
-##
-[**Bertha Porter**](/authors/bertha-porter)
-
-- Michelle Crowther
-
-![](/images/thumbnails/mobile-landscapes.jpg)
-
-Biographer and Egyptologist
-
 ### Notebooks
 
 The notebooks are held at Canterbury Cathedral Archives.
