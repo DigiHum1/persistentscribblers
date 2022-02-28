@@ -1,2 +1,12 @@
 theme: jekyll-theme-cayman
 title: The Persistent Scribblers Society
+tagline: 
+description:  The Persistent Scribblers was a manuscript magazine society operating in Canterbury between 1875-1878
+banner: /images/Bleak_house_postcard.jpg
+favicon: /images/favicon.ico
+
+# When using a custom domain these fields must be updated to match
+# the account and repository name
+acct: DigiHum1
+repo: persistentscribblers
+ref: master
