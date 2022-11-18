@@ -2,20 +2,20 @@
 
 In March 1848, Archibald Campbell Tait, the headmaster of Rugby School visited Broadstairs on the advice of his doctor. He was seriously ill after a challenging time, saying: “I must return to my work or soon I shall think there is nothing in the world so interesting as the beating of my own heart.” Dr Hodson, who predicated a “rapid decline” suggested the soft air of Beaumaris, however Dr Babington, who had treated Tait before, recommended the bracing air of Broadstairs. Tait took Babington’s advice. He wrote: “The remaining weeks of the holidays were spent there with the two little ones, in a small but not very comfortable lodging.  But what were inconveniences in comparison with the glad feeling of returning health”.
 
-.ve-image wc:James_Sant_(1820-1916)_-_Archibald_Campbell_Tait_-_NPG_4580_-_National_Portrait_Gallery.jpg
+.ve-image wc:James_Sant_(1820-1916)_-_Archibald_Campbell_Tait_-_NPG_4580_-_National_Portrait_Gallery.jpg full
 
 Almost twenty years later, and now Bishop of London, Tait attended the Pan-Anglican Conference at Lambeth but “these exertions so knocked him up that he was obliged to take another month of entire rest, which he spent in a villa near Broadstairs”. It was after this visit, restored by the bracing air of Broadstairs, that he decided to purchase a marine residence – He bought Stonehouse at St Peters, a mile from Broadstairs and fifteen miles by rail from the city Canterbury. 
 .ve-map 51.3691187304201,1.4437947665875308
 
 Tait was staying at Stonehouse in October 1868, when he received the news of the death of Archbishop of Canterbury, Charles Longley, and shortly after a message from Queen Victoria offering him the archbishopric. His sister, Lady Wake recalls: “A week passed without another word to Stonehouse ; then one morning the sound of wheels was heard, and in another moment Mr Fisher, the Bishop's chaplain, appeared, bringing a letter from the Prime Minister containing the expected appointment.”
 
-.ve-image wc:AbpCharlesThomasLongley.jpg
+.ve-image wc:AbpCharlesThomasLongley.jpg full
 
 What followed was an exhausting round or engagements:
 
 .  .  .  Confirmation  at  Smeeth.  Visited  the  new  schools.  Got on  to  Tonbridge  Wells,  in  a  snowy  night,  in  time  for  a  large dinner-party  of  clergy  at  Mr.  Hoare's.  Great  Confirmation  on nth  at  Tonbridge  Wells,  and  a  second  equally  large  at  Tonbridge. Drove  to  Tonbridge  after  a  huge  luncheon  party,  and  in  the  dark drove  fifteen  miles  from  Tonbridge  to  Mr.  Talbot's  at  Falcon- hurst,  where  most  kindly  received.  Met  many  |>eople  at  dinner. Confirmed  next  day  at  Pcnshurst.  Great  luncheon  of  clergy  and others.  .  .  .  Returned  in  dark.     Another  dinner-party.  .  .  .  On  Saturday  13th  confirmed  at  Edenbridge.  Great  luncheon  of  many, clergy  and  others.  Confirmed  in  afternoon  at  Westerham. Drove  to  Colonel  Ward's  lovely  place,  Squerries.  After  tea started  for  a  drive  in  the  dark  over  the  hills.  Got  to  Addington at  9.15.  Very  thankful  to  have  got  through  a  heavy  week  so well,  notwithstanding  the  perpetual  singing  in  my  ears."
 
-.ve-image wc:Squerryes_Court,_Westerham,_Kent_-_geograph.org.uk_-_37782.jpg
+.ve-image wc:Squerryes_Court,_Westerham,_Kent_-_geograph.org.uk_-_37782.jpg full
 
 
 Tait’s health remained fragile and he was prone to bouts of exhaustion.  Lady Wake wrote: “The interest of his new duties as Archbishop carried him on far beyond his strength. He always considered he had done enough to recruit his health by spending a few bright weeks with his friends in Scotland, finishing the autumn at Stonehouse.” He usually stayed for around 6-8 weeks. 
